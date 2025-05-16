@@ -11,8 +11,7 @@ from dotenv import load_dotenv
 import os
 import time
 import asyncio
-from ragas import SingleTurnSample
-from ragas.metrics import LLMContextPrecisionWithReference
+
 
 # Load environment variables
 load_dotenv()
