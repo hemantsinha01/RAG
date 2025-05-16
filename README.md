@@ -56,5 +56,5 @@ These apps allow users to interact with documents (PDFs or Web content) using in
 ---
 
 ## 🧑‍💻 Author
-Made with ❤️ by [Your Name]  
-For queries, feel free to reach out or connect on [LinkedIn/GitHub].
+Made with ❤️ by Hemant Kuamr 
+
